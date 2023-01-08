@@ -1,0 +1,6 @@
+Çözüm-1: 
+
+Aşağıda Binary Search Tree şeklinde verilmiş olan dizinin root değeri 4 olup; sağ tarafında 6, onun sağında 8 ve onun sağında da 9 bulunur. 
+Root değerinin sol tarafında ise 2 ve onun solunda da 0 bulunur. 
+Bununla beraber bir arama sırasında 0’ın oluşturduğu subtree’de 0 değerinin sağında 1, ve 2’nin oluşturduğu subtree’de de 2’nin sağında 3 bulunur. 
+Aynı şekilde Root’un sağ tarafında ise, 8’in subtree’sinde sağında 9 ve solunda 7 bulunur ve 6’nın oluşturduğu subtree’de ise sağında 8 ve solunda 5 bulunur. 
